@@ -1,1 +1,1 @@
-SELECT * FROM company.deliveries;
+SELECT * FROM company.products;
